@@ -1,15 +1,14 @@
 
-<body>
-    <header>
-        <h1>Welcome to AstroMC</h1>
+  
+<section id="Welcome to AstroMC" style="margin-top: 20px; padding: 20px; background-color: #1a2a4f; border-radius: 10px; color: #ffffff;">
+      <h1>Welcome to AstroMC</h1>
         <p>A unique Minecraft server for space explorers!</p>
     </header>
     <main>
         <h2>News</h2>
         <p>IP Soon : <strong>Coming soon</strong></p>
         <p>Version : <strong>coming soon</strong></p>
-
-
+</section>
 <section id="about-us" style="margin-top: 20px; padding: 20px; background-color: #1a2a4f; border-radius: 10px; color: #ffffff;">
     <h2>About us</h2>
     <p>
